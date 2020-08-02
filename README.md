@@ -1,5 +1,5 @@
 # ESP32_MPU6050
-Send Accelerometer and gyroscope values from mpu6050 sensor over UDP and store it in InfluxDB 
+Send Accelerometer and gyroscope readings from mpu6050 sensor over UDP and store values in InfluxDB 
 
 
 ## Wiring ESP32 and MPU6050
