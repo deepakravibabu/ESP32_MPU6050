@@ -21,3 +21,5 @@ Create a database 'mpu' to store the sensor values
 ## Add InfluxDB Datasource into Grafana 
 Install Grafana and add the influxDB 'mpu' 
 Write a query to view the values in the grafana dashboard 
+
+![img](https://github.com/deepakravibabu/ESP32_MPU6050/blob/master/esp32mpu6050.gif)
