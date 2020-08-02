@@ -1,4 +1,4 @@
-# ESP32_MPU6050
+# ESP32_MPU6050_InfluxDB-Grafana
 Send Accelerometer and gyroscope readings from mpu6050 sensor over UDP and store values in InfluxDB 
 
 
