@@ -23,3 +23,5 @@ Install Grafana and add the influxDB 'mpu'
 Write a query to view the values in the grafana dashboard 
 
 ![img](https://github.com/deepakravibabu/ESP32_MPU6050/blob/master/mpu6050.gif)
+
+<img src="https://github.com/deepakravibabu/ESP32_MPU6050_InfluxDB/blob/master/20200802_193522.jpg" width="248" height = "230">
